@@ -2,14 +2,11 @@
 
 ## factorial2.cpp
 
--  input/parameter impacting number of calls: The unsigned int n impacts the number of calls 
+-  input/parameter impacting number of calls: **The unsigned int n impacts the number of calls** 
 
-- 3 specific examples of input/parameter and number of calls
- * Given that the factorial is put into play, the greater number increases call amount*
- * 0!=1 is called once, 1!=1 is called twice, 2!=2 is called three times*
+- 3 specific examples of input/parameter and number of calls: **Given that the factorial is put into play, the greater number increases call amount. 0!=1 is called once, 1!=1 is called twice, 2!=2 is called three times**
 
-- number of recursive calls when input/parameter is *n*
- * Formula for calls -> C(n) = n + 1*
+- number of recursive calls when input/parameter is *n* : **Formula for calls -> C(n) = n + 1**
 
 ## ireverse2.cpp
 
