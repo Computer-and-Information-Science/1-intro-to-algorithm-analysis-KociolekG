@@ -3,7 +3,7 @@
 ## factorial2.cpp
 
 -  input/parameter impacting number of calls
- * The unsigned int n impacts the number of calls*
+  The unsigned int n impacts the number of calls 
 
 - 3 specific examples of input/parameter and number of calls
  * Given that the factorial is put into play, the greater number increases call amount*
